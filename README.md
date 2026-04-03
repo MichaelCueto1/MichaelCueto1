@@ -110,30 +110,3 @@ Soy ingeniero especializado en **Inteligencia Artificial**, **Data Engineering**
 | 📊 **ml-inmobidata** | Modelos ML de forecasting de precios | MLflow · XGBoost · LightGBM · GeoPandas |
 | 🗣️ **agente-inmobidata** | Agente NL to SQL con MCP | Anthropic · MCP · SQLAlchemy · pyodbc |
 | 🔄 **pipeline-inmobidata** | Pipeline ETL completo con Airflow | Airflow · Docker · Azure Blob · Python |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelCueto1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCueto1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📬 Contacto
-
-📧 **michael.cueto@sinergytechconsulting.com**
-🏢 **Sinergy Tech Consulting**
-
----
-
-<div align="center">
-
-*⚡ "Construyo desde el dato crudo hasta el agente inteligente"*
-
-</div>
