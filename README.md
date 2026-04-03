@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Michael Cueto
 
-### 🤖 AI Engineer & Data Scientist | Python · LangChain · MLflow · Azure · NestJS
+### 🤖 AI Engineer & Data Scientist | Python · LangChain · MLflow · Azure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub followers](https://img.shields.io/github/followers/MichaelCueto1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichaelCueto1)
@@ -57,7 +57,7 @@ Soy ingeniero especializado en **Inteligencia Artificial**, **Data Engineering**
 ---
 
 ### 🗄️ Bases de Datos
-> Validado en: `backend-inmobidata` · `agente-inmobidata` · `server-inmobidata` · `rag-ilc`
+> Validado en: `backend-inmobidata` · `agente-inmobidata` · `rag-ilc`
 
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -92,13 +92,10 @@ Soy ingeniero especializado en **Inteligencia Artificial**, **Data Engineering**
 > Validado en: `backend-inmobidata` · `server-inmobidata` · `rag-ilc` · `smart-due`
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
 
 - ⚡ **FastAPI** + Uvicorn para APIs asíncronas de alto rendimiento
-- 🏗️ **NestJS** con JWT Auth, Rate Limiting y scraping con Puppeteer
 - 🔍 Web scraping de datos inmobiliarios (portales como Urbania)
 - 📋 Validación robusta de datos con **Pydantic v2**
 
@@ -112,7 +109,6 @@ Soy ingeniero especializado en **Inteligencia Artificial**, **Data Engineering**
 | 🏠 **backend-inmobidata** | Backend IA para análisis inmobiliario | FastAPI · Azure SQL · Claude · MongoDB |
 | 📊 **ml-inmobidata** | Modelos ML de forecasting de precios | MLflow · XGBoost · LightGBM · GeoPandas |
 | 🗣️ **agente-inmobidata** | Agente NL to SQL con MCP | Anthropic · MCP · SQLAlchemy · pyodbc |
-| 🌐 **server-inmobidata** | Backend scraping y API REST | NestJS · TypeScript · PostgreSQL · Docker |
 | 🔄 **pipeline-inmobidata** | Pipeline ETL completo con Airflow | Airflow · Docker · Azure Blob · Python |
 
 ---
